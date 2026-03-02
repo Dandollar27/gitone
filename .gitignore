@@ -1,0 +1,7 @@
+node_modules
+
+git init
+git add .
+git commit -m "HEAVEN"
+git remote add origin https://github.com/Dandollar27/gitone.git
+git push -u origin master
